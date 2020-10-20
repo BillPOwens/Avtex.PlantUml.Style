@@ -231,7 +231,7 @@ skinparam {
 	FileStereotypeFontName	Arial
 	FileStereotypeFontSize	18
 	FileStereotypeFontStyle	normal 
-	FolderBackgroundColor	2aa154
+	FolderBackgroundColor	white
 	FolderBorderColor	092137
 	FolderFontColor	092137
 	FolderFontName	Arial
@@ -245,7 +245,7 @@ skinparam {
 	FooterFontName	Arial
 	FooterFontSize	18
 	FooterFontStyle	normal 
-	FrameBackgroundColor	2aa154
+	FrameBackgroundColor	white
 	FrameBorderColor	092137
 	FrameFontColor	092137
 	FrameFontName	Arial
