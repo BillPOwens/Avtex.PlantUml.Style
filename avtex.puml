@@ -16,515 +16,520 @@ FFF000000FFFFFFF
 FFFFFFFFFFFFFFFF
 FFFFFFFFFFFFFFFF
 }
+
+!$AvtexBlue = "092137"
+!$AvtexGreen = "2aa154"
+!$AvtexBackGround = "White"
+
 skinparam {
-	ActivityBackgroundColor	2aa154
+	ActivityBackgroundColor	$AvtexGreen
 	ActivityBarColor	Green
-	ActivityBorderColor	092137
+	ActivityBorderColor	$AvtexBlue
 	ActivityBorderThickness	2
-	ActivityDiamondBackgroundColor	2aa154
-	ActivityDiamondBorderColor	092137
-	ActivityDiamondFontColor	092137
+	ActivityDiamondBackgroundColor	$AvtexGreen
+	ActivityDiamondBorderColor	$AvtexBlue
+	ActivityDiamondFontColor	$AvtexBlue
 	ActivityDiamondFontName	Arial
 	ActivityDiamondFontSize	18
-	ActivityDiamondFontStyle	normal 
+	ActivityDiamondFontStyle	normal 
 	ActivityEndColor	Red
-	ActivityFontColor	092137
+	ActivityFontColor	$AvtexBlue
 	ActivityFontName	Arial
 	ActivityFontSize	18
-	ActivityFontStyle	normal 
+	ActivityFontStyle	normal 
 	ActivityStartColor	Green
-	ActorBackgroundColor	2aa154
-	ActorBorderColor	092137
-	ActorFontColor	092137
+	ActorBackgroundColor	$AvtexGreen
+	ActorBorderColor	$AvtexBlue
+	ActorFontColor	$AvtexBlue
 	ActorFontName	Arial
 	ActorFontSize	18
-	ActorFontStyle	normal 
-	ActorStereotypeFontColor	092137
+	ActorFontStyle	normal 
+	ActorStereotypeFontColor	$AvtexBlue
 	ActorStereotypeFontName	Arial
 	ActorStereotypeFontSize	18
-	ActorStereotypeFontStyle	normal 
-	AgentBackgroundColor	2aa154
-	AgentBorderColor	092137
+	ActorStereotypeFontStyle	normal 
+	AgentBackgroundColor	$AvtexGreen
+	AgentBorderColor	$AvtexBlue
 	AgentBorderThickness	2
-	AgentFontColor	092137
+	AgentFontColor	$AvtexBlue
 	AgentFontName	Arial
 	AgentFontSize	18
-	AgentFontStyle	normal 
-	AgentStereotypeFontColor	092137
+	AgentFontStyle	normal 
+	AgentStereotypeFontColor	$AvtexBlue
 	AgentStereotypeFontName	Arial
 	AgentStereotypeFontSize	18
-	AgentStereotypeFontStyle	normal 
-	ArchimateBackgroundColor	2aa154
-	ArchimateBorderColor	092137
+	AgentStereotypeFontStyle	normal 
+	ArchimateBackgroundColor	$AvtexGreen
+	ArchimateBorderColor	$AvtexBlue
 	ArchimateBorderThickness	2
-	ArchimateFontColor	092137
+	ArchimateFontColor	$AvtexBlue
 	ArchimateFontName	Arial
 	ArchimateFontSize	18
-	ArchimateFontStyle	normal 
-	ArchimateStereotypeFontColor	092137
+	ArchimateFontStyle	normal 
+	ArchimateStereotypeFontColor	$AvtexBlue
 	ArchimateStereotypeFontName	Arial
 	ArchimateStereotypeFontSize	18
-	ArchimateStereotypeFontStyle	normal 
-	ArrowColor	092137
-	ArrowFontColor	092137
+	ArchimateStereotypeFontStyle	normal 
+	ArrowColor	$AvtexBlue
+	ArrowFontColor	$AvtexBlue
 	ArrowFontName	Arial
 	ArrowFontSize	18
-	ArrowFontStyle	normal 
-	ArrowHeadColor	092137
-	ArrowLollipopColor	092137
+	ArrowFontStyle	normal 
+	ArrowHeadColor	$AvtexBlue
+	ArrowLollipopColor	$AvtexBlue
 	ArrowThickness	2
-	ArtifactBackgroundColor	2aa154
-	ArtifactBorderColor	092137
-	ArtifactFontColor	092137
+	ArtifactBackgroundColor	$AvtexGreen
+	ArtifactBorderColor	$AvtexBlue
+	ArtifactFontColor	$AvtexBlue
 	ArtifactFontName	Arial
 	ArtifactFontSize	18
-	ArtifactFontStyle	normal 
-	ArtifactStereotypeFontColor	092137
+	ArtifactFontStyle	normal 
+	ArtifactStereotypeFontColor	$AvtexBlue
 	ArtifactStereotypeFontName	Arial
 	ArtifactStereotypeFontSize	18
-	ArtifactStereotypeFontStyle	normal 
+	ArtifactStereotypeFontStyle	normal 
 	BackgroundColor	White
-	BiddableBackgroundColor	2aa154
-	BiddableBorderColor	092137
-	BoundaryBackgroundColor	2aa154
-	BoundaryBorderColor	092137
-	BoundaryFontColor	092137
+	BiddableBackgroundColor	$AvtexGreen
+	BiddableBorderColor	$AvtexBlue
+	BoundaryBackgroundColor	$AvtexGreen
+	BoundaryBorderColor	$AvtexBlue
+	BoundaryFontColor	$AvtexBlue
 	BoundaryFontName	Arial
 	BoundaryFontSize	18
-	BoundaryFontStyle	normal 
-	BoundaryStereotypeFontColor	092137
+	BoundaryFontStyle	normal 
+	BoundaryStereotypeFontColor	$AvtexBlue
 	BoundaryStereotypeFontName	Arial
 	BoundaryStereotypeFontSize	18
-	BoundaryStereotypeFontStyle	normal 
+	BoundaryStereotypeFontStyle	normal 
 	BoxPadding	10
-	CaptionFontColor	092137
+	CaptionFontColor	$AvtexBlue
 	CaptionFontName	Arial
 	CaptionFontSize	18
-	CaptionFontStyle	normal 
-	CardBackgroundColor	2aa154
-	CardBorderColor	092137
+	CaptionFontStyle	normal 
+	CardBackgroundColor	$AvtexGreen
+	CardBorderColor	$AvtexBlue
 	CardBorderThickness	2
-	CardFontColor	092137
+	CardFontColor	$AvtexBlue
 	CardFontName	Arial
 	CardFontSize	18
-	CardFontStyle	normal 
-	CardStereotypeFontColor	092137
+	CardFontStyle	normal 
+	CardStereotypeFontColor	$AvtexBlue
 	CardStereotypeFontName	Arial
 	CardStereotypeFontSize	18
-	CardStereotypeFontStyle	normal 
-	CircledCharacterFontColor	092137
+	CardStereotypeFontStyle	normal 
+	CircledCharacterFontColor	$AvtexBlue
 	CircledCharacterFontName	Arial
 	CircledCharacterFontSize	18
-	CircledCharacterFontStyle	normal 
-	ClassAttributeFontColor	092137
+	CircledCharacterFontStyle	normal 
+	ClassAttributeFontColor	$AvtexBlue
 	ClassAttributeFontName	Arial
 	ClassAttributeFontSize	18
-	ClassAttributeFontStyle	normal 
+	ClassAttributeFontStyle	normal 
 	ClassAttributeIconSize	12
-	ClassBackgroundColor	2aa154
-	ClassBorderColor	092137
+	ClassBackgroundColor	$AvtexGreen
+	ClassBorderColor	$AvtexBlue
 	ClassBorderThickness	2
-	ClassFontColor	092137
+	ClassFontColor	$AvtexBlue
 	ClassFontName	Arial
 	ClassFontSize	18
-	ClassFontStyle	normal 
-	ClassHeaderBackgroundColor	2aa154
-	ClassStereotypeFontColor	092137
+	ClassFontStyle	normal 
+	ClassHeaderBackgroundColor	$AvtexGreen
+	ClassStereotypeFontColor	$AvtexBlue
 	ClassStereotypeFontName	Arial
 	ClassStereotypeFontSize	18
-	ClassStereotypeFontStyle	normal 
+	ClassStereotypeFontStyle	normal 
 	CloudBackgroundColor	white
-	CloudBorderColor	092137
-	CloudFontColor	092137
+	CloudBorderColor	$AvtexBlue
+	CloudFontColor	$AvtexBlue
 	CloudFontName	Arial
 	CloudFontSize	18
-	CloudFontStyle	normal 
-	CloudStereotypeFontColor	092137
+	CloudFontStyle	normal 
+	CloudStereotypeFontColor	$AvtexBlue
 	CloudStereotypeFontName	Arial
 	CloudStereotypeFontSize	18
-	CloudStereotypeFontStyle	normal 
-	CollectionsBackgroundColor	2aa154
-	CollectionsBorderColor	092137
-	ColorArrowSeparationSpace	092137
-	ComponentBackgroundColor	2aa154
-	ComponentBorderColor	092137
+	CloudStereotypeFontStyle	normal 
+	CollectionsBackgroundColor	$AvtexGreen
+	CollectionsBorderColor	$AvtexBlue
+	ColorArrowSeparationSpace	$AvtexBlue
+	ComponentBackgroundColor	$AvtexGreen
+	ComponentBorderColor	$AvtexBlue
 	ComponentBorderThickness	2
-	ComponentFontColor	092137
+	ComponentFontColor	$AvtexBlue
 	ComponentFontName	Arial
 	ComponentFontSize	18
-	ComponentFontStyle	normal 
-	ComponentStereotypeFontColor	092137
+	ComponentFontStyle	normal 
+	ComponentStereotypeFontColor	$AvtexBlue
 	ComponentStereotypeFontName	Arial
 	ComponentStereotypeFontSize	18
-	ComponentStereotypeFontStyle	normal 
-	ComponentStyle	normal 
-	ConditionEndStyle	normal 
-	ConditionStyle	normal 
-	ControlBackgroundColor	2aa154
-	ControlBorderColor	092137
-	ControlFontColor	092137
+	ComponentStereotypeFontStyle	normal 
+	ComponentStyle	normal 
+	ConditionEndStyle	normal 
+	ConditionStyle	normal 
+	ControlBackgroundColor	$AvtexGreen
+	ControlBorderColor	$AvtexBlue
+	ControlFontColor	$AvtexBlue
 	ControlFontName	Arial
 	ControlFontSize	18
-	ControlFontStyle	normal 
-	ControlStereotypeFontColor	092137
+	ControlFontStyle	normal 
+	ControlStereotypeFontColor	$AvtexBlue
 	ControlStereotypeFontName	Arial
 	ControlStereotypeFontSize	18
-	ControlStereotypeFontStyle	normal 
+	ControlStereotypeFontStyle	normal 
 	DatabaseBackgroundColor	White
-	DatabaseBorderColor	092137
-	DatabaseFontColor	092137
+	DatabaseBorderColor	$AvtexBlue
+	DatabaseFontColor	$AvtexBlue
 	DatabaseFontName	Arial
 	DatabaseFontSize	18
-	DatabaseFontStyle	normal 
-	DatabaseStereotypeFontColor	092137
+	DatabaseFontStyle	normal 
+	DatabaseStereotypeFontColor	$AvtexBlue
 	DatabaseStereotypeFontName	Arial
 	DatabaseStereotypeFontSize	18
-	DatabaseStereotypeFontStyle	normal 
-	DefaultFontColor	092137
+	DatabaseStereotypeFontStyle	normal 
+	DefaultFontColor	$AvtexBlue
 	DefaultFontName	Arial
 	DefaultFontSize	18
-	DefaultFontStyle	normal 
+	DefaultFontStyle	normal 
 	DefaultMonospacedFontName	Arial
 	DefaultTextAlignment	center
-	DesignedBackgroundColor	2aa154
-	DesignedBorderColor	092137
+	DesignedBackgroundColor	$AvtexGreen
+	DesignedBorderColor	$AvtexBlue
 	DesignedDomainBorderThickness	2
-	DesignedDomainFontColor	092137
+	DesignedDomainFontColor	$AvtexBlue
 	DesignedDomainFontName	Arial
 	DesignedDomainFontSize	18
-	DesignedDomainFontStyle	normal 
-	DesignedDomainStereotypeFontColor	092137
+	DesignedDomainFontStyle	normal 
+	DesignedDomainStereotypeFontColor	$AvtexBlue
 	DesignedDomainStereotypeFontName	Arial
 	DesignedDomainStereotypeFontSize	18
-	DesignedDomainStereotypeFontStyle	normal 
-	DiagramBorderColor	092137
+	DesignedDomainStereotypeFontStyle	normal 
+	DiagramBorderColor	$AvtexBlue
 	DiagramBorderThickness	2
-	DomainBackgroundColor	2aa154
-	DomainBorderColor	092137
+	DomainBackgroundColor	$AvtexGreen
+	DomainBorderColor	$AvtexBlue
 	DomainBorderThickness	2
-	DomainFontColor	092137
+	DomainFontColor	$AvtexBlue
 	DomainFontName	Arial
 	DomainFontSize	18
-	DomainFontStyle	normal 
-	DomainStereotypeFontColor	092137
+	DomainFontStyle	normal 
+	DomainStereotypeFontColor	$AvtexBlue
 	DomainStereotypeFontName	Arial
 	DomainStereotypeFontSize	18
-	DomainStereotypeFontStyle	normal 
-	EntityBackgroundColor	2aa154
-	EntityBorderColor	092137
-	EntityFontColor	092137
+	DomainStereotypeFontStyle	normal 
+	EntityBackgroundColor	$AvtexGreen
+	EntityBorderColor	$AvtexBlue
+	EntityFontColor	$AvtexBlue
 	EntityFontName	Arial
 	EntityFontSize	18
-	EntityFontStyle	normal 
-	EntityStereotypeFontColor	092137
+	EntityFontStyle	normal 
+	EntityStereotypeFontColor	$AvtexBlue
 	EntityStereotypeFontName	Arial
 	EntityStereotypeFontSize	18
-	EntityStereotypeFontStyle	normal 
-	EnumBackgroundColor	2aa154
-	FileBackgroundColor	2aa154
-	FileBorderColor	092137
-	FileFontColor	092137
+	EntityStereotypeFontStyle	normal 
+	EnumBackgroundColor	$AvtexGreen
+	FileBackgroundColor	$AvtexGreen
+	FileBorderColor	$AvtexBlue
+	FileFontColor	$AvtexBlue
 	FileFontName	Arial
 	FileFontSize	18
-	FileFontStyle	normal 
-	FileStereotypeFontColor	092137
+	FileFontStyle	normal 
+	FileStereotypeFontColor	$AvtexBlue
 	FileStereotypeFontName	Arial
 	FileStereotypeFontSize	18
-	FileStereotypeFontStyle	normal 
-	FolderBackgroundColor	white
-	FolderBorderColor	092137
-	FolderFontColor	092137
+	FileStereotypeFontStyle	normal 
+	FolderBackgroundColor	$AvtexGreen
+	FolderBorderColor	$AvtexBlue
+	FolderFontColor	$AvtexBlue
 	FolderFontName	Arial
 	FolderFontSize	18
-	FolderFontStyle	normal 
-	FolderStereotypeFontColor	092137
+	FolderFontStyle	normal 
+	FolderStereotypeFontColor	$AvtexBlue
 	FolderStereotypeFontName	Arial
 	FolderStereotypeFontSize	18
-	FolderStereotypeFontStyle	normal 
-	FooterFontColor	092137
+	FolderStereotypeFontStyle	normal 
+	FooterFontColor	$AvtexBlue
 	FooterFontName	Arial
 	FooterFontSize	18
-	FooterFontStyle	normal 
-	FrameBackgroundColor	white
-	FrameBorderColor	092137
-	FrameFontColor	092137
+	FooterFontStyle	normal 
+	FrameBackgroundColor	$AvtexGreen
+	FrameBorderColor	$AvtexBlue
+	FrameFontColor	$AvtexBlue
 	FrameFontName	Arial
 	FrameFontSize	18
-	FrameFontStyle	normal 
-	FrameStereotypeFontColor	092137
+	FrameFontStyle	normal 
+	FrameStereotypeFontColor	$AvtexBlue
 	FrameStereotypeFontName	Arial
 	FrameStereotypeFontSize	18
-	FrameStereotypeFontStyle	normal 
-	HeaderFontColor	092137
+	FrameStereotypeFontStyle	normal 
+	HeaderFontColor	$AvtexBlue
 	HeaderFontName	Arial
 	HeaderFontSize	18
-	HeaderFontStyle	normal 
-	HyperlinkColor	092137
-	IconIEMandatoryColor	092137
-	IconPackageBackgroundColor	2aa154
-	IconPackageColor	092137
-	IconPrivateBackgroundColor	2aa154
-	IconPrivateColor	092137
-	IconProtectedBackgroundColor	2aa154
-	IconProtectedColor	092137
-	IconPublicBackgroundColor	2aa154
-	IconPublicColor	092137
-	InterfaceBackgroundColor	2aa154
-	InterfaceBorderColor	092137
-	InterfaceFontColor	092137
+	HeaderFontStyle	normal 
+	HyperlinkColor	$AvtexBlue
+	IconIEMandatoryColor	$AvtexBlue
+	IconPackageBackgroundColor	$AvtexGreen
+	IconPackageColor	$AvtexBlue
+	IconPrivateBackgroundColor	$AvtexGreen
+	IconPrivateColor	$AvtexBlue
+	IconProtectedBackgroundColor	$AvtexGreen
+	IconProtectedColor	$AvtexBlue
+	IconPublicBackgroundColor	$AvtexGreen
+	IconPublicColor	$AvtexBlue
+	InterfaceBackgroundColor	$AvtexGreen
+	InterfaceBorderColor	$AvtexBlue
+	InterfaceFontColor	$AvtexBlue
 	InterfaceFontName	Arial
 	InterfaceFontSize	18
-	InterfaceFontStyle	normal 
-	InterfaceStereotypeFontColor	092137
+	InterfaceFontStyle	normal 
+	InterfaceStereotypeFontColor	$AvtexBlue
 	InterfaceStereotypeFontName	Arial
 	InterfaceStereotypeFontSize	18
-	InterfaceStereotypeFontStyle	normal 
-	LegendBackgroundColor	2aa154
-	LegendBorderColor	092137
+	InterfaceStereotypeFontStyle	normal 
+	LegendBackgroundColor	$AvtexGreen
+	LegendBorderColor	$AvtexBlue
 	LegendBorderThickness	2
-	LegendFontColor	092137
+	LegendFontColor	$AvtexBlue
 	LegendFontName	Arial
 	LegendFontSize	18
-	LegendFontStyle	normal 
-	LexicalBackgroundColor	2aa154
-	LexicalBorderColor	092137
-	MachineBackgroundColor	2aa154
-	MachineBorderColor	092137
+	LegendFontStyle	normal 
+	LexicalBackgroundColor	$AvtexGreen
+	LexicalBorderColor	$AvtexBlue
+	MachineBackgroundColor	$AvtexGreen
+	MachineBorderColor	$AvtexBlue
 	MachineBorderThickness	2
-	MachineFontColor	092137
+	MachineFontColor	$AvtexBlue
 	MachineFontName	Arial
 	MachineFontSize	18
-	MachineFontStyle	normal 
-	MachineStereotypeFontColor	092137
+	MachineFontStyle	normal 
+	MachineStereotypeFontColor	$AvtexBlue
 	MachineStereotypeFontName	Arial
 	MachineStereotypeFontSize	18
-	MachineStereotypeFontStyle	normal 
+	MachineStereotypeFontStyle	normal 
 	NodeBackgroundColor	White
-	NodeBorderColor	092137
-	NodeFontColor	092137
+	NodeBorderColor	$AvtexBlue
+	NodeFontColor	$AvtexBlue
 	NodeFontName	Arial
 	NodeFontSize	18
-	NodeFontStyle	normal 
-	NodeStereotypeFontColor	092137
+	NodeFontStyle	normal 
+	NodeStereotypeFontColor	$AvtexBlue
 	NodeStereotypeFontName	Arial
 	NodeStereotypeFontSize	18
-	NodeStereotypeFontStyle	normal 
-	NoteBackgroundColor	2aa154
-	NoteBorderColor	092137
+	NodeStereotypeFontStyle	normal 
+	NoteBackgroundColor	$AvtexGreen
+	NoteBorderColor	$AvtexBlue
 	NoteBorderThickness	2
-	NoteFontColor	092137
+	NoteFontColor	$AvtexBlue
 	NoteFontName	Arial
 	NoteFontSize	18
-	NoteFontStyle	normal 
+	NoteFontStyle	normal 
 	NoteShadowing	TRUE
 	NoteTextAlignment	Center
-	ObjectAttributeFontColor	092137
+	ObjectAttributeFontColor	$AvtexBlue
 	ObjectAttributeFontName	Arial
 	ObjectAttributeFontSize	18
-	ObjectAttributeFontStyle	normal 
-	ObjectBackgroundColor	2aa154
-	ObjectBorderColor	092137
+	ObjectAttributeFontStyle	normal 
+	ObjectBackgroundColor	$AvtexGreen
+	ObjectBorderColor	$AvtexBlue
 	ObjectBorderThickness	2
-	ObjectFontColor	092137
+	ObjectFontColor	$AvtexBlue
 	ObjectFontName	Arial
 	ObjectFontSize	18
-	ObjectFontStyle	normal 
-	ObjectStereotypeFontColor	092137
+	ObjectFontStyle	normal 
+	ObjectStereotypeFontColor	$AvtexBlue
 	ObjectStereotypeFontName	Arial
 	ObjectStereotypeFontSize	18
-	ObjectStereotypeFontStyle	normal 
+	ObjectStereotypeFontStyle	normal 
 	PackageBackgroundColor	white
-	PackageBorderColor	092137
+	PackageBorderColor	$AvtexBlue
 	PackageBorderThickness	2
-	PackageFontColor	092137
+	PackageFontColor	$AvtexBlue
 	PackageFontName	Arial
 	PackageFontSize	18
-	PackageFontStyle	normal 
-	PackageStereotypeFontColor	092137
+	PackageFontStyle	normal 
+	PackageStereotypeFontColor	$AvtexBlue
 	PackageStereotypeFontName	Arial
 	PackageStereotypeFontSize	18
-	PackageStereotypeFontStyle	normal 
+	PackageStereotypeFontStyle	normal 
 	PackageStyle	Bold
 	PackageTitleAlignment	left
-	PageBorderColor	092137
-	PageExternalColor	092137
+	PageBorderColor	$AvtexBlue
+	PageExternalColor	$AvtexBlue
 	PageMargin	5
-	ParticipantBackgroundColor	2aa154
-	ParticipantBorderColor	092137
-	ParticipantFontColor	092137
+	ParticipantBackgroundColor	$AvtexGreen
+	ParticipantBorderColor	$AvtexBlue
+	ParticipantFontColor	$AvtexBlue
 	ParticipantFontName	Arial
 	ParticipantFontSize	18
-	ParticipantFontStyle	normal 
+	ParticipantFontStyle	normal 
 	ParticipantPadding	100
-	ParticipantStereotypeFontColor	092137
+	ParticipantStereotypeFontColor	$AvtexBlue
 	ParticipantStereotypeFontName	Arial
 	ParticipantStereotypeFontSize	18
-	ParticipantStereotypeFontStyle	normal 
-	PartitionBackgroundColor	2aa154
-	PartitionBorderColor	092137
+	ParticipantStereotypeFontStyle	normal 
+	PartitionBackgroundColor	$AvtexGreen
+	PartitionBorderColor	$AvtexBlue
 	PartitionBorderThickness	2
-	PartitionFontColor	092137
+	PartitionFontColor	$AvtexBlue
 	PartitionFontName	Arial
 	PartitionFontSize	18
-	PartitionFontStyle	normal 
-	PathHoverColor	092137
-	QueueBackgroundColor	2aa154
-	QueueBorderColor	092137
+	PartitionFontStyle	normal 
+	PathHoverColor	$AvtexBlue
+	QueueBackgroundColor	$AvtexGreen
+	QueueBorderColor	$AvtexBlue
 	QueueBorderThickness	2
-	QueueFontColor	092137
+	QueueFontColor	$AvtexBlue
 	QueueFontName	Arial
 	QueueFontSize	18
-	QueueFontStyle	normal 
-	QueueStereotypeFontColor	092137
+	QueueFontStyle	normal 
+	QueueStereotypeFontColor	$AvtexBlue
 	QueueStereotypeFontName	Arial
 	QueueStereotypeFontSize	18
-	QueueStereotypeFontStyle	normal 
-	RectangleBackgroundColor	2aa154
-	RectangleBorderColor	092137
+	QueueStereotypeFontStyle	normal 
+	RectangleBackgroundColor	$AvtexGreen
+	RectangleBorderColor	$AvtexBlue
 	RectangleBorderThickness	2
-	RectangleFontColor	092137
+	RectangleFontColor	$AvtexBlue
 	RectangleFontName	Arial
 	RectangleFontSize	18
-	RectangleFontStyle	normal 
-	RectangleStereotypeFontColor	092137
+	RectangleFontStyle	normal 
+	RectangleStereotypeFontColor	$AvtexBlue
 	RectangleStereotypeFontName	Arial
 	RectangleStereotypeFontSize	18
-	RectangleStereotypeFontStyle	normal 
-	RequirementBackgroundColor	2aa154
-	RequirementBorderColor	092137
+	RectangleStereotypeFontStyle	normal 
+	RequirementBackgroundColor	$AvtexGreen
+	RequirementBorderColor	$AvtexBlue
 	RequirementBorderThickness	2
-	RequirementFontColor	092137
+	RequirementFontColor	$AvtexBlue
 	RequirementFontName	Arial
 	RequirementFontSize	18
-	RequirementFontStyle	normal 
-	RequirementStereotypeFontColor	092137
+	RequirementFontStyle	normal 
+	RequirementStereotypeFontColor	$AvtexBlue
 	RequirementStereotypeFontName	Arial
 	RequirementStereotypeFontSize	18
-	RequirementStereotypeFontStyle	normal 
+	RequirementStereotypeFontStyle	normal 
 	RoundCorner	TRUE
 	SequenceActorBorderThickness	2
 	SequenceArrowThickness	2
-	SequenceBoxBackgroundColor	2aa154
-	SequenceBoxBorderColor	092137
-	SequenceBoxFontColor	092137
+	SequenceBoxBackgroundColor	$AvtexGreen
+	SequenceBoxBorderColor	$AvtexBlue
+	SequenceBoxFontColor	$AvtexBlue
 	SequenceBoxFontName	Arial
 	SequenceBoxFontSize	18
-	SequenceBoxFontStyle	normal 
-	SequenceDelayFontColor	092137
+	SequenceBoxFontStyle	normal 
+	SequenceDelayFontColor	$AvtexBlue
 	SequenceDelayFontName	Arial
 	SequenceDelayFontSize	18
-	SequenceDelayFontStyle	normal 
-	SequenceDividerBackgroundColor	2aa154
-	SequenceDividerBorderColor	092137
+	SequenceDelayFontStyle	normal 
+	SequenceDividerBackgroundColor	$AvtexGreen
+	SequenceDividerBorderColor	$AvtexBlue
 	SequenceDividerBorderThickness	2
-	SequenceDividerFontColor	092137
+	SequenceDividerFontColor	$AvtexBlue
 	SequenceDividerFontName	Arial
 	SequenceDividerFontSize	18
-	SequenceDividerFontStyle	normal 
-	SequenceGroupBackgroundColor	2aa154
-	SequenceGroupBodyBackgroundColor	2aa154
-	SequenceGroupBorderColor	092137
+	SequenceDividerFontStyle	normal 
+	SequenceGroupBackgroundColor	$AvtexGreen
+	SequenceGroupBodyBackgroundColor	$AvtexGreen
+	SequenceGroupBorderColor	$AvtexBlue
 	SequenceGroupBorderThickness	2
-	SequenceGroupFontColor	092137
+	SequenceGroupFontColor	$AvtexBlue
 	SequenceGroupFontName	Arial
 	SequenceGroupFontSize	18
-	SequenceGroupFontStyle	normal 
-	SequenceGroupHeaderFontColor	092137
+	SequenceGroupFontStyle	normal 
+	SequenceGroupHeaderFontColor	$AvtexBlue
 	SequenceGroupHeaderFontName	Arial
 	SequenceGroupHeaderFontSize	18
-	SequenceGroupHeaderFontStyle	normal 
-	SequenceLifeLineBackgroundColor	2aa154
-	SequenceLifeLineBorderColor	092137
+	SequenceGroupHeaderFontStyle	normal 
+	SequenceLifeLineBackgroundColor	$AvtexGreen
+	SequenceLifeLineBorderColor	$AvtexBlue
 	SequenceLifeLineBorderThickness	2
 	SequenceMessageAlignment	center
 	SequenceMessageTextAlignment	center
-	SequenceNewpageSeparatorColor	092137
+	SequenceNewpageSeparatorColor	$AvtexBlue
 	SequenceParticipantBorderThickness	2
-	SequenceReferenceBackgroundColor	2aa154
-	SequenceReferenceBorderColor	092137
+	SequenceReferenceBackgroundColor	$AvtexGreen
+	SequenceReferenceBorderColor	$AvtexBlue
 	SequenceReferenceBorderThickness	2
-	SequenceReferenceFontColor	092137
+	SequenceReferenceFontColor	$AvtexBlue
 	SequenceReferenceFontName	Arial
 	SequenceReferenceFontSize	18
-	SequenceReferenceFontStyle	normal 
-	SequenceReferenceHeaderBackgroundColor	2aa154
-	SequenceStereotypeFontColor	092137
+	SequenceReferenceFontStyle	normal 
+	SequenceReferenceHeaderBackgroundColor	$AvtexGreen
+	SequenceStereotypeFontColor	$AvtexBlue
 	SequenceStereotypeFontName	Arial
 	SequenceStereotypeFontSize	18
-	SequenceStereotypeFontStyle	normal 
+	SequenceStereotypeFontStyle	normal 
 	Shadowing	TRUE
-	StackBackgroundColor	2aa154
-	StackBorderColor	092137
-	StackFontColor	092137
+	StackBackgroundColor	$AvtexGreen
+	StackBorderColor	$AvtexBlue
+	StackFontColor	$AvtexBlue
 	StackFontName	Arial
 	StackFontSize	18
-	StackFontStyle	normal 
-	StackStereotypeFontColor	092137
+	StackFontStyle	normal 
+	StackStereotypeFontColor	$AvtexBlue
 	StackStereotypeFontName	Arial
 	StackStereotypeFontSize	18
-	StackStereotypeFontStyle	normal 
-	StateAttributeFontColor	092137
+	StackStereotypeFontStyle	normal 
+	StateAttributeFontColor	$AvtexBlue
 	StateAttributeFontName	Arial
 	StateAttributeFontSize	18
-	StateAttributeFontStyle	normal 
-	StateBackgroundColor	2aa154
-	StateBorderColor	092137
-	StateEndColor	092137
-	StateFontColor	092137
+	StateAttributeFontStyle	normal 
+	StateBackgroundColor	$AvtexGreen
+	StateBorderColor	$AvtexBlue
+	StateEndColor	$AvtexBlue
+	StateFontColor	$AvtexBlue
 	StateFontName	Arial
 	StateFontSize	18
-	StateFontStyle	normal 
-	StateStartColor	092137
-	StereotypeABackgroundColor	2aa154
-	StereotypeABorderColor	092137
-	StereotypeCBackgroundColor	2aa154
-	StereotypeCBorderColor	092137
-	StereotypeEBackgroundColor	2aa154
-	StereotypeEBorderColor	092137
-	StereotypeIBackgroundColor	2aa154
-	StereotypeIBorderColor	092137
-	StereotypeNBackgroundColor	2aa154
-	StereotypeNBorderColor	092137
-	StorageBackgroundColor	2aa154
-	StorageBorderColor	092137
-	StorageFontColor	092137
+	StateFontStyle	normal 
+	StateStartColor	$AvtexBlue
+	StereotypeABackgroundColor	$AvtexGreen
+	StereotypeABorderColor	$AvtexBlue
+	StereotypeCBackgroundColor	$AvtexGreen
+	StereotypeCBorderColor	$AvtexBlue
+	StereotypeEBackgroundColor	$AvtexGreen
+	StereotypeEBorderColor	$AvtexBlue
+	StereotypeIBackgroundColor	$AvtexGreen
+	StereotypeIBorderColor	$AvtexBlue
+	StereotypeNBackgroundColor	$AvtexGreen
+	StereotypeNBorderColor	$AvtexBlue
+	StorageBackgroundColor	$AvtexGreen
+	StorageBorderColor	$AvtexBlue
+	StorageFontColor	$AvtexBlue
 	StorageFontName	Arial
 	StorageFontSize	18
-	StorageFontStyle	normal 
-	StorageStereotypeFontColor	092137
+	StorageFontStyle	normal 
+	StorageStereotypeFontColor	$AvtexBlue
 	StorageStereotypeFontName	Arial
 	StorageStereotypeFontSize	18
-	StorageStereotypeFontStyle	normal 
-	Style	normal 
-	SwimlaneBorderColor	092137
+	StorageStereotypeFontStyle	normal 
+	Style	normal 
+	SwimlaneBorderColor	$AvtexBlue
 	SwimlaneBorderThickness	2
-	SwimlaneTitleBackgroundColor	2aa154
-	SwimlaneTitleFontColor	092137
+	SwimlaneTitleBackgroundColor	$AvtexGreen
+	SwimlaneTitleFontColor	$AvtexBlue
 	SwimlaneTitleFontName	Arial
 	SwimlaneTitleFontSize	18
-	SwimlaneTitleFontStyle	normal 
+	SwimlaneTitleFontStyle	normal 
 	TabSize	3
-	TimingFontColor	092137
+	TimingFontColor	$AvtexBlue
 	TimingFontName	Arial
 	TimingFontSize	18
-	TimingFontStyle	normal 
-	TitleBackgroundColor	2aa154
-	TitleBorderColor	092137
+	TimingFontStyle	normal 
+	TitleBackgroundColor	$AvtexGreen
+	TitleBorderColor	$AvtexBlue
 	TitleBorderRoundCorner	TRUE
 	TitleBorderThickness	2
-	TitleFontColor	092137
+	TitleFontColor	$AvtexBlue
 	TitleFontName	Arial
 	TitleFontSize	18
-	TitleFontStyle	normal 
-	UsecaseBackgroundColor	2aa154
-	UsecaseBorderColor	092137
+	TitleFontStyle	normal 
+	UsecaseBackgroundColor	$AvtexGreen
+	UsecaseBorderColor	$AvtexBlue
 	UsecaseBorderThickness	2
-	UsecaseFontColor	092137
+	UsecaseFontColor	$AvtexBlue
 	UsecaseFontName	Arial
 	UsecaseFontSize	18
-	UsecaseFontStyle	normal 
-	UsecaseStereotypeFontColor	092137
+	UsecaseFontStyle	normal 
+	UsecaseStereotypeFontColor	$AvtexBlue
 	UsecaseStereotypeFontName	Arial
 	UsecaseStereotypeFontSize	18
-	UsecaseStereotypeFontStyle	normal 
+	UsecaseStereotypeFontStyle	normal 
 }
