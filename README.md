@@ -1,0 +1,1 @@
+# Avtex.PlantUml.Style
